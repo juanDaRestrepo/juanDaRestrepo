@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanDaRestrepo
 - 👀 I’m a web developer
-- 🌱 I’m currently learning model view controller with php to begin learning laravel framework, also i´m learning javascript and angular.
+- 🌱 I’m currently learning model view controller with php to begin learning laravel framework and react.
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
