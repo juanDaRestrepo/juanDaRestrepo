@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanDaRestrepo
 - 👀 I’m a web developer
-- 🌱 I’m making personal projects to practice laravel and react.
+- 🌱 Learning React.
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
