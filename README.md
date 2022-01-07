@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanDaRestrepo
-- 👀 I’m a web developer
-- 🌱 Learning React.
+- 👀 I’m a web developer with knowledge in php technologies(Laravel, Symfony)
+- 🌱 Actually i´m Learning React.
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
