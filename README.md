@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @juanDaRestrepo
-- 👀 I’m a junior Fullstack Developer with knowledge in php technologies(Laravel, Symfony) and React
-- 🌱 Actually i´m Learning React.
+- 👀 I’m a Fullstack Developer with knowledge in javascript technologies(React, Express)
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
