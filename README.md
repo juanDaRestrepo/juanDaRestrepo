@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanDaRestrepo
-- 👀 I’m a Fullstack Developer with knowledge in javascript technologies(React, Express)
+- 👀 I’m a Fullstack Developer with knowledge in javascript technologies(React, Express) also with knowledge in php.
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
