@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanDaRestrepo
-- 👀 I’m a Fullstack Developer with experience working with React, Express, Redux and PHP.
+- 👀 I’m a Fullstack Developer with experience working with React, Express, Redux and native PHP and Laravel.
 - 📫 How to reach me: in the email: jdrestrepo@unitecnica.net
 
 <!---
