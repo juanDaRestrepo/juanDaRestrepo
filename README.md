@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juanDaRestrepo
-- 👀 I’m a Fullstack Developer with experience in React, jQuery, Vanilla js, native PHP, and Laravel.
+- 👀 I’m a Fullstack Developer with experience in React, Angular, jQuery, Vanilla js, native PHP, and Laravel.
 - 📫 How to reach me: in the email: juanrestrepowebdev@gmail.com
 
 <!---
